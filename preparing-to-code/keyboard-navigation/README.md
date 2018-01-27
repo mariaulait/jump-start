@@ -18,19 +18,19 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | |
-| Paste | |
-| Cut | |
-| Save | |
-| Select | |
-| Undo | |
-| Redo | |
-| Find | |
-| Switch app | |
-| Open spotlight search | |
-| Force quit | |
-| Full-screen screen shot | |
-| User-defined region screen shot | |
+| Copy |command + C|
+| Paste |command + V|
+| Cut |command + X|
+| Save |command + S|
+| Select |command + A|
+| Undo |command + Z|
+| Redo |Command + Shift + Z|
+| Find |command + F|
+| Switch app |command + tab|
+| Open spotlight search |command + space|
+| Force quit |Option + Command + Esc|
+| Full-screen screen shot |Shift + Command + 3|
+| User-defined region screen shot |shift + command + 4|
 
 ## MaxOSX overview
 
@@ -52,7 +52,9 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 ## Practice tasks
 1. Use Spotlight to open the finder
     * What does tab do in finder?
+    Goes from file to file alphabetically
     * What does shift + tab do in finder?
+    Goes to the las file alphabetically 
 1. Do the following commands using only the keyboard:
     1. Open your web browser
     1. Navigate to adadevelopersacademy.org
@@ -61,4 +63,4 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
     1. Navigate back to the Ada tab
     1. Refresh the web page
     1. Quit out of the web browser (don't just close the tabs, close the whole application)
-1. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
+2. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
